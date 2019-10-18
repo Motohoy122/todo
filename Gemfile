@@ -63,3 +63,7 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.5'
   gem "factory_bot_rails"
 end
+
+gem 'turbolinks', '~> 2.5', '>= 2.5.3'
+
+gem 'jquery-rails'
